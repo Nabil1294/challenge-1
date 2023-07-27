@@ -26,6 +26,7 @@ in css also some elements were changed as follows:-
 10.class footer was changed to footer.
 11.class footer h2 was changed to footer h2.
 
+deployed link:  https://nabil1294.github.io/challenge-1/
 
 
 
@@ -60,10 +61,3 @@ in css also some elements were changed as follows:-
 
 
 
-to change non-semantic elements to semantic elements,
-elements follow logical structure independent of styling and positioning, 
-adding alt attributes to image elements
-heading attribute in sequential order
-title element descriptive 
-challenge_1/develop/index.html is the file to be submitted 
-https://nabil1294.github.io/Challenge_1/Develop/
